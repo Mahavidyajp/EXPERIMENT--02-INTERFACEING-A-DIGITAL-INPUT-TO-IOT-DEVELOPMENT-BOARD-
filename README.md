@@ -120,7 +120,5 @@ void IRsensor()
 
 ![image](https://github.com/user-attachments/assets/ee6b90c5-b1c9-4fe7-bf87-46e61ac74987)
 
-![image](https://github.com/user-attachments/assets/c79c4742-d2db-4c39-b62b-98d7358c86ee)
-
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
